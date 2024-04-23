@@ -1,0 +1,5 @@
+venv
+.ipynb_checkpoints
+yolov8s.pt
+data
+.env
