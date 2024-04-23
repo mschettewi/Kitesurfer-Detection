@@ -116,7 +116,7 @@ Number of kitesurfers:  3
 
 ## Video Inference
 
-We can similarly label kitesurfers in an image by labeling each frame individually. This video feed was taken from a live beach cam found at this [link](https://www.youtube.com/watch?v=fOwd-xu3P_Y). The video quality is particularly bad in this video and we see the kite lags between frames. 
+We can similarly label kitesurfers in a video by labeling each frame individually. This video feed was taken from a live beach cam found at this [link](https://www.youtube.com/watch?v=fOwd-xu3P_Y). The video quality is particularly bad in this video and we see the kite lags between frames. 
 
 
 
