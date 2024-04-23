@@ -119,8 +119,8 @@ Number of kitesurfers:  3
 We can similarly label kitesurfers in an image by labeling each frame individually. This video feed was taken from a live beach cam found at this [link](https://www.youtube.com/watch?v=fOwd-xu3P_Y). The video quality is particularly bad in this video and we see the kite lags between frames. 
 
 
-![beach_cam](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/de18570f-d898-4b95-93ec-e0f14483af31)
 
+![beach_cam](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/a0e45b92-c887-48d2-9e18-08282394f321)
 
 
 
@@ -144,7 +144,7 @@ print("Average number of kitesurfers in the video: ", np.mean(number_of_kites))
 The kitesurfers are labeled in the resulting video below. The video quality is bad on the original feed, meanwhile, our model was trained primarily on high-quality Google images. In the video classifier, the date on the top right of the screen is classified as a kite, and some wingfoilers are classified as kitesurfers (they do look very similar).
 
 
-![result](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/2ee0d7cb-083d-4e70-a25c-a979953c7aeb)
+![result](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/81c7ac13-4317-4b0e-b88f-1040c8d811e4)
 
 
 
@@ -153,7 +153,7 @@ The kitesurfers are labeled in the resulting video below. The video quality is b
 This video stream features more kites and is sourced from the (Key Biscayne Live Stream)[https://www.iplivecams.com/live-cams/miami-kiteboarding-key-biscayne-florida-united-states/]. 
 
 
-![KeyBiscayneLiveCam](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/12c4db6a-dc46-4994-ac70-e6e5c7ce39a3)
+![KeyBiscayneLiveCam](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/dbead374-c5d7-4f18-8ab5-9d9f23da14fb)
 
 
 
@@ -183,7 +183,8 @@ It is an important distinction that in our dataset, we only labeled kites that a
 
 
 
-![KeyBiscayneLiveCamResults](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/39c90986-6a60-4865-b0bd-65c0083c5cb1)
+![KeyBiscayneLiveCamResults](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/72cff3bb-5217-41ab-8cab-7b85269da24f)
+
 
 
 
