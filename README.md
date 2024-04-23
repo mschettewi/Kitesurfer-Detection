@@ -150,7 +150,7 @@ The kitesurfers are labeled in the resulting video below. The video quality is b
 
 ## Key Biscayne Live Stream
 
-This video stream features more kites and is sourced from the (Key Biscayne Live Stream)[https://www.iplivecams.com/live-cams/miami-kiteboarding-key-biscayne-florida-united-states/]. 
+This video stream features more kites and is sourced from the [Key Biscayne Live Stream](https://www.iplivecams.com/live-cams/miami-kiteboarding-key-biscayne-florida-united-states/). 
 
 
 ![KeyBiscayneLiveCam](https://github.com/mschettewi/Kitesurfer-Detection/assets/25996096/dbead374-c5d7-4f18-8ab5-9d9f23da14fb)
